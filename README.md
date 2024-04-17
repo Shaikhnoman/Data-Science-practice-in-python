@@ -1,2 +1,2 @@
-# HR-Administration
-by using this website we can easily manipulate employee data
+practice of data science by using python 
+
