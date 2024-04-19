@@ -11,7 +11,7 @@ This repository contains practice programs related to data science concepts and 
 ## Usage
 To run a specific program, navigate to the corresponding directory and execute the Python script. For example:
 
-```bash
+bash
 cd path/to/data science prac1
 python data scince prac1.py
 
